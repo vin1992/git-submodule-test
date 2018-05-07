@@ -21,6 +21,7 @@ function hello() {
 
 function yoyo() { }
 
+function ddd() { }
 
 function ssss() { }
 
