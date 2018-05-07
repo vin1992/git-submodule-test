@@ -18,3 +18,5 @@ function isTypeOf(o) {
 function hello() {
   console.log('hello world aaaa');
 }
+
+function yoyo() { }
