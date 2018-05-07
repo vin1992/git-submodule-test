@@ -30,3 +30,5 @@ function ssss() { }
 function dieforlive() { }
 
 function hell() { }
+
+function indeed() { }
