@@ -28,3 +28,5 @@ function ssss() { }
 
 
 function dieforlive() { }
+
+function hell() { }
