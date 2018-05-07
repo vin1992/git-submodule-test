@@ -15,4 +15,6 @@ function isTypeOf(o) {
   return str.substr(8, str.length - 9);
 }
 
-
+function hello() {
+  console.log('hello world aaaa');
+}
