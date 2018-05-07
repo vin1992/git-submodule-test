@@ -23,3 +23,7 @@ function yoyo() { }
 
 
 function ssss() { }
+
+
+
+function dieforlive() { }
